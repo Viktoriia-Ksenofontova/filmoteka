@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marvall/filmoteka.git"
+    "url": "git+https://github.com/Viktoriia-Ksenofontova/filmoteka.git"
   },
   "keywords": [],
-  "author": "Yaroslav Bezugliy <marvallua@gmail.com>",
+  "author": "Comand project GOIT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marvall/filmoteka/issues"
+    "url": "https://github.com/Viktoriia-Ksenofontova/filmoteka/issues"
   },
-  "homepage": "https://marvall.github.io/filmoteka",
+  "homepage": "https://Viktoriia-Ksenofontova.github.io/filmoteka",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
